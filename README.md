@@ -1,4 +1,4 @@
-### Привет, я Янчев 👋
+### Привет, я Андрей
 
 Fullstack-разработчик. Пишу фронтенд на React / Next.js и бэкенд на Node.js. Деплою на своих серверах, делаю Telegram Mini Apps и ботов.
 
@@ -7,18 +7,12 @@ const me = {
   frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
   backend:  ['Node.js', 'Fastify', 'PostgreSQL', 'Redis', 'WebSocket'],
   tools:    ['Vite', 'Tauri', 'JWT', 'Telegram Bot API'],
-  now:      'Фриланс — открыт к проектам',
+  now:      'Открыт к проектам',
 }
 ```
 
 ---
 
-**Production**
-
-| | |
-|---|---|
-| [**shelper-front**](https://github.com/yanchev01/shelper-front) | Desktop-приложение на Tauri + React. Payments, chat, библиотеки плагинов |
-| [**valcheck**](https://github.com/yanchev01/valcheck) | SPA на React — трекер скинов и магазина Valorant |
 
 **Portfolio**
 
